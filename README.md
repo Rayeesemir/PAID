@@ -1,8 +1,8 @@
 # PAID
 
-
+rm -rf PAID
 git clone https://github.com/Rayeesemir/PAID.git
 
 cd PAID
 
-python RaYeEs-AFG.py
+python wking5_enc.py
