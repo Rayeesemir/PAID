@@ -5,4 +5,4 @@ git clone https://github.com/Rayeesemir/PAID.git
 
 cd PAID
 
-python wking5_enc.py
+python MAFlA.py
